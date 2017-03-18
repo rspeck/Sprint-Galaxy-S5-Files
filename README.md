@@ -13,7 +13,7 @@ Settings:
     APN0 EHRPD ota (otasn)
     APN0 LTE ota (otasn)
     APN2 EHRPD internet (n.ispsn)
-    APN2 LTE internet (n.ispsn) #this one has radio button state selected#
+    APN2 LTE internet (n.ispsn)     
     Global Roaming - SPRINT (cinet.spcs)
 
 telephony.db copied after root with CF-Auto-Root
